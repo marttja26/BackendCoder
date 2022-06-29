@@ -1,0 +1,20 @@
+[
+	{
+		"title": "Harry Poter Y La Piedra Filosofal",
+		"price": 12.5,
+		"thumbnail": "https://images-na.ssl-images-amazon.com/images/I/91R1AixEiLL.jpg",
+		"id": 1
+	},
+	{
+		"title": "Harry Poter Y El Prisionero De Azkaban",
+		"price": 13,
+		"thumbnail": "https://images-na.ssl-images-amazon.com/images/I/8103uoOEY9L.jpg",
+		"id": 2
+	},
+	{
+		"title": "Harry Poter Y El Caliz De Fuego",
+		"price": 15.5,
+		"thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaXW0txixzSv1Jiy6cdRxr5IRr3oaivr-Swg&usqp=CAU",
+		"id": 3
+	}
+]
